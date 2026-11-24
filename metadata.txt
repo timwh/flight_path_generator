@@ -1,0 +1,17 @@
+[general]
+name=Flight Path Generator
+qgisMinimumVersion=3.0
+qgisMaximumVersion=4.99
+description=Generates parallel flight lines (for SPECIM AFX) and continuous connected flight paths (for DJI Pilot) from a selected polygon feature.
+version=1.0
+author=Tim Whiteside
+email=tim.whiteside@dcceew.gov.au
+about=This plugin generates spaced N-S flight lines and connected wayline path KMLs from a polygon boundary.
+tracker=
+repository=https://github.com/timwh/flight_path_generator
+category=Plugins
+tags=aviation,flight,path,dji,kml
+homepage=https://github.com/timwh/flight_path_generator
+experimental=False
+deprecated=False
+icon=icon.svg
